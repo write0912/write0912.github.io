@@ -1,0 +1,251 @@
+.content {
+    width: 100%;
+}
+
+header {
+    background-image: url(../img/navback.png);
+    background-size: cover;
+    height: 59px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.header {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.topimg {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+ul {
+    margin-left: 100px;
+    padding: 15px;
+    width: 600px;
+}
+
+ul li {
+    list-style: none;
+    display: inline;
+    padding: 10px;
+}
+
+.logo {
+    text-align: center;
+}
+
+.search {
+    margin-top: 15px;
+    float: right;
+}
+
+.cover {
+    background-image: url(../img/background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
+    color: white;
+}
+
+.cover2 {
+    padding-top: 200px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.news {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.news2 {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.newleft {
+    width: 50%;
+    float: left;
+    padding-right: 40px;
+}
+
+.newright {
+    width: 50%;
+    float: left;
+    padding-left: 40px;
+}
+
+.year {
+    font-size: 180px;
+    font-weight: bolder;
+    line-height: 100px;
+}
+
+.was {
+    font-size: 60;
+}
+
+.allartists {
+    padding: 10 50px;
+    background-color: #4de4fb;
+    border-radius: 50px;
+}
+
+.aboutus {
+    position: relative;
+    width: 100%;
+    height: 60%;
+}
+
+.usleft {
+    position: absolute;
+    top: 120px;
+    padding: 60px 330px 80px 150px;
+    max-height: 300px;
+    width: 54%;
+    background-color: #4de4fb;
+    overflow: hidden;
+}
+
+.usleftbtn {
+    background-color: #4de4fb;
+    border: solid 3px;
+    border-radius: 30px;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+
+.usright {
+    position: absolute;
+    background-image: url(../img/usright.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    top: 0;
+    right: 0;
+    height: 100%;
+    z-index: -1;
+    width: 54%;
+}
+
+.services {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.services2 {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.artistslist {
+    background-image: url(../img/artistsback.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 110%;
+    margin: 0 auto;
+}
+
+.artistslist2 {
+    padding-top: 100px;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.artlist {
+    display: inline-block;
+    padding: 0 15px 0 0;
+}
+
+.art {
+    color: white;
+    font-size: 20px;
+}
+
+.playlist {
+    position: relative;
+    padding-top: 200px;
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.playleft {
+    position: absolute;
+    background-image: url(../img/playlistback.png);
+    background-size: cover;
+    height: 100%;
+    width: 70%;
+    margin: 0 auto;
+}
+.playlistright {
+  background-color: white;
+  position: absolute;
+  right: 0;
+  top: 50%;
+  width: 60%;
+  padding-left: 70px;
+  padding-top: 50px;
+}
+
+.play {
+  display: inline-block;
+  margin: 0 auto;
+  float: left;
+}
+
+.song{
+  display: inline-block;
+}
+
+
+table {
+    width: 80%;
+}
+
+tr {
+    width: 100%;
+    height: 20px;
+}
+
+td {
+    
+}
+
+
+
+.playtb {
+  margin: 0;
+}
+
+.playtb li {
+  float: left;
+  width: 100%;
+}
+
+.play-img {
+    text-align: center;
+}
+
+.song {
+    width: 80%;
+}
+
+.song-name {
+    margin: 0 0px 0 0px;
+    width: 80%;
+}
+
+.songer {
+    font-size: 8px;
+}
+
+.playtime{
+   float: right;
+}
